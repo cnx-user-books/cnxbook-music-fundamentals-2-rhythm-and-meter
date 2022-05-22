@@ -1,0 +1,40 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction to Subdivisions in Compound Meters</title>
+  <metadata>
+  <md:content-id>m22811</md:content-id><md:title>Introduction to Subdivisions in Compound Meters</md:title>
+  <md:abstract>Introduction to subdivisions in compound meters. This module follows Rhythmic Study: Introduction to Subdivisions in Simple Meters (m22810).</md:abstract>
+  <md:uuid>3f2098dd-97a9-45da-af4b-5d3102e4baa3</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169604734214">
+      <emphasis effect="bold">Introduction to Subdivisions in Compound Meters</emphasis>
+    </para>
+    <para id="id1169603036839">Subdivisions in compound meters (6/8, 9/8, 12/8 etc.) generally feature divisions of three eighth notes to each beat or pulse. Naturally each eighth note may then be divided with sixteenth notes:</para>
+    <figure id="id1169604108121">
+      <media id="id1169604108121_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics1-7335.png" id="id1169604108121__onlineimage" height="488" width="650"/>
+      </media>
+    </figure>
+    <para id="id8126696">First perform the following by tapping eighth notes while singing the melody with “Ta” or “La” or playing it on your instrument. </para>
+    <figure id="id1169604620489">
+      <media id="id1169604620489_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-a183.png" id="id1169604620489__onlineimage" height="161" width="650"/>
+      </media>
+    </figure>
+    <para id="id7815530">Once you have mastered that exercise, try to “hear” the tapping internally. Play the upper line while hearing the tapping.</para>
+    <para id="id1169603399497">Try this example in 6/8 with sixteenth note subdivisions:</para>
+    <figure id="id1169603337968">
+      <media id="id1169603337968_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-e832.png" id="id1169603337968__onlineimage" height="93" width="649"/>
+      </media>
+    </figure>
+    <para id="id1169603337814">A good rule of thumb is to subdivide with the smallest note value possible. If the example above was performed at a slow tempo, eighth note = 60, then subdivisions with 32<sup>nd</sup> notes would be quite possible and would help to ensure proper note values. At a tempo of dotted quarter note = 100, sixteenth note subdivisions would be preferred. This new tempo would be too rapid to subdivide easily with 32<sup>nd</sup> notes.</para>
+    <para id="id1169608123922">Here are some further examples to subdivide with sixteenth notes (<link document="m22805">Wedge</link>, p. 165):</para>
+    <figure id="id4289358">
+      <media id="id4289358_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics4-bdd0.png" id="id4289358__onlineimage" height="186" width="642"/>
+      </media>
+    </figure>
+  </content>
+</document>

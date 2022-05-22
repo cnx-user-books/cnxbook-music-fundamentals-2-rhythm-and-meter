@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction to Subdivisions in Simple Meters </title>
+  <metadata>
+  <md:content-id>m22810</md:content-id><md:title>Introduction to Subdivisions in Simple Meters </md:title>
+  <md:abstract>Introduction to subdivisions in simple meters. The module introduces divisions and subdivisions as a tool for rhythmic accuracy in music.</md:abstract>
+  <md:uuid>e0357d98-05a5-4ed3-b5da-d921286a6bba</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1165450689354">In general, we more accurately gauge shorter periods than longer periods of time. For instance, the difference between the length of whole notes performed at a quarter note = 60 and then at 66 would be difficult to discern. However, we can easily discern the difference between sixteenth notes performed at those speeds, four to a quarter-note beat. Our ability to perceive smaller increments of time can help us with the larger time spans. By accumulating many smaller time spans we can accurate measure or perceive the larger ones. </para>
+    <para id="id1165445391229">“Subdivision” or “subdividing” refers to dividing the beat, most often silently, into smaller units. Technically speaking divisions are note values that divide beats (in 4/4 and 6/8 they are eighth notes) and subdivisions are note values that further divide divisions (in 4/4 and 6/8 they are sixteenth notes). Informally, however, most performing musicians use the term subdivision to describe counting note values smaller than the beat. Usually these note values are eighth or sixteenth notes. The ability to subdivide while performing music ensures rhythmic accuracy and is an important skill that all musicians need to develop.</para>
+    <para id="id1165445655448">Simple meters (2/4, 3/4, 4/4 etc.) generally feature subdivisions of the beat in four parts. In the figure below please notice that the sixteenth notes form subdivisions of all of the larger value notes: <figure id="id1165445431831"><media id="id1165445431831_media" alt=""><image mime-type="image/png" src="../../media/graphics1-61d8.png" id="id1165445431831__onlineimage" height="446" width="649"/></media></figure></para>
+    <para id="id1165445430489">Below is an example with subdivisions: the upper part is aligned with sixteenth note subdivisions in the lower part: </para>
+    <figure id="id1165445361876">
+      <media id="id1165445361876_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-1609.png" id="id1165445361876__onlineimage" height="190" width="649"/>
+      </media>
+    </figure>
+    <para id="id1165458724505">The first step to internalizing the subdivisions is to beat out a steady pattern of sixteenth notes while playing a melody line. For instance, while tapping 16th notes with a hand or foot try singing or saying the upper part with “ta” or “la” for each note. This may take a little bit of practice.</para>
+    <para id="id1165454041615">Try tapping out eighth notes while performing these simple patterns:</para>
+    <figure id="id1165448556051">
+      <media id="id1165448556051_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-761b.png" id="id1165448556051__onlineimage" height="315" width="513"/>
+      </media>
+    </figure>
+    <para id="id1165458341332">When you are able to perform the rhythms accurately with tapping, try to then perform them accurately by internally “hearing” the taps. When I subdivide I usually do so with internal “tapping” sounds rather than counting “1 ee and ah, 2 ee and ah.” The internal tapping works better with more complex rhythms or faster subdivisions.</para>
+    <para id="id1165452827942">When you have mastered the above examples with eighth notes, try subdivisions of sixteenth notes. Here are some further examples to practice with sixteenth note subdivisions:</para>
+    <para id="id1165455198709">
+      <figure id="id1165457171195">
+        <media id="id1165457171195_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-41d2.png" id="id1165457171195__onlineimage" height="167" width="651"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1165447457379">
+      <emphasis effect="bold">Choosing Note Values for Subdivisions</emphasis>
+    </para>
+    <para id="id1165456331667">Audio engineers speak of “sampling rates,” that is the rate at which sound waves are digitally sampled. The higher the sampling rate, the more accurate is the digital representation of the sound. Similarly in the performance of music, the more subdivisions are made in each beat or each measure, the more exacting the rhythmic performance. </para>
+    <para id="id1165457915488">Consider the following figure with notes placed rhythmically placed spatially along the staff line:</para>
+    <figure id="id1165451094146">
+      <media id="id1165451094146_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 0.png" id="id1165451094146__onlineimage" height="170" width="454"/>
+      </media>
+    </figure>
+    <para id="id1165458819601">If we add eighth note pulses we obtain:</para>
+    <figure id="id1165448784156">
+      <media id="id1165448784156_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1.png" id="id1165448784156__onlineimage" height="171" width="457"/>
+      </media>
+    </figure>
+    <para id="id1165454410086">The sixteenth notes at numbers 1 and 2 appear rhythmically accurate; at least they are positioned so that they don’t intersect the eighth note lines. However, if we subdivide the example with sixteenth notes (presented in the green and blue lines) we notice that the rhythmic placement at number 2 is not accurate:</para>
+    <figure id="id1165453982305">
+      <media id="id1165453982305_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics5.png" id="id1165453982305__onlineimage" height="165" width="440"/>
+      </media>
+    </figure>
+    <para id="id1165451223362">The sixteenth at number 1 coincides with the sixteenth note pulse (blue line) but the sixteenth at number 2 clearly is not centered with the appropriate sixteenth note pulse. The slight rhythmic sloppiness is hardly noticeable with eight note divisions but becomes quite obvious with the sixteenth note subdivisions. </para>
+    <para id="id1165452993300">Thus, the smaller and more frequent the rhythmic subdivisions, the more accurately the rhythms can be scrutinized. For this reason, musicians with the highest degree of rhythmic accuracy have the greatest mastery of very rapid subdivisions.</para>
+    <para id="id1165458774818">The rule of thumb is to pick the smallest value of subdivision you can internally hear when you perform. </para>
+  </content>
+</document>
